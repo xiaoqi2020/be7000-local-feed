@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "architecture": "aarch64_cortex-a73",
+  "packages": {
+    "ddns-go": "6.17.7-r1",
+    "luci-app-ddns-go": "1.6.8-r20260323",
+    "luci-i18n-ddns-go-zh-cn": "26.272.61595~219d466"
+  }
+}
